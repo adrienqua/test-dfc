@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-primary {
+    @apply text-white;
+}
+body {
+    @apply bg-[#f7f7f9];
+}

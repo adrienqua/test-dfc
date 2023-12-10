@@ -1,0 +1,18 @@
+{
+    "evaluations": [
+        {
+            "id": 1,
+            "name": "Copil Sept.",
+            "creation_date": "2023-09-03",
+            "validation_date": "2023-09-05",
+            "status": "validé"
+        },
+        {
+            "id": 2,
+            "name": "Copil Nov.",
+            "creation_date": "2023-11-29",
+            "validation_date": "2023-11-30",
+            "status": "validé"
+        }
+    ]
+}

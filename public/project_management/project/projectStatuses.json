@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "in_progress",
+        "label": "en cadrage"
+    },
+    {
+        "id": 2,
+        "name": "scoping",
+        "label": "en cours"
+    },
+    {
+        "id": 3,
+        "name": "completed",
+        "label": "terminé"
+    }
+]

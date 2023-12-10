@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Extension des capacités logistiques",
+    "reference": "COM_RDI_001",
+    "manager_id": 1,
+    "status": "scoping",
+    "risk_model_id": 1,
+    "start_date": "2023-09-04",
+    "end_date": "2023-09-18",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta, elit et dignissim gravida, ipsum nulla volutpat orci, ut bibendum magna lorem eu magna. Maecenas risus velit, placerat at velit nec, placerat tincidunt ante. Maecenas quam eros, accumsan eu dui ac, accumsan finibus ex. Etiam vel tellus vehicula, tempus odio feugiat, elementum tortor.",
+    "domain": 1,
+    "programme": 1
+}
